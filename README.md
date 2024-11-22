@@ -3,28 +3,42 @@
 SQL (Structured Query Language) is a programming language designed for managing and manipulating data in relational database management systems.
  
 ## 🔶 SQL Data Types
+
 SQL data types define the type of value a column or variable can hold 
+
 🔸 Numeric Data Types E.g. Int, Smallint, Bigint
+
 🔸 Character Data Types E.g. Char, Varchar, Text
+
 🔸 Date and Time Data Types E.g. Data, Time, Timestamp, Datetime
+
 🔸 Binary Data Types E.g. Binary, Varbinary, Blob
  
 ## 🔷 SQL Commands
+
 SQL commands are used to perform various operations on data. 
 Here are some common SQL commands:
  
 🔹 SELECT: Retrieves data from a database table.
+
 🔹 INSERT: Adds new data to a database table.
+
 🔹 UPDATE: Modifies existing data in a database table.
+
 🔹 DELETE: Deletes data from a database table.
+
 🔹 CREATE: Creates a new database table or other database object.
+
 🔹 DROP: Deletes a database table or other database object.
  
 ## 🔶 SQL Operators
+
 SQL operators are used to perform various operations on data. Here are some common SQL operators:
  
 🔸 Arithmetic Operators: +, -, *, /, %
+
 🔸 Comparison Operators: =, <, >, <=, >=, <>
+
 🔸 Logical Operators: AND, OR, NOT
 
 
